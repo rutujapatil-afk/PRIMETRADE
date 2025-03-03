@@ -1,0 +1,16 @@
+
+    Cryptocurrency Data Analysis Report
+    -----------------------------------
+    Top 5 Cryptocurrencies by Market Cap:
+        name    market_cap
+ Bitcoin 1800823772624
+Ethereum  276364305824
+     XRP  152146320992
+  Tether  142345209088
+     BNB   86929986518
+    
+    Average Price of Top 50 Cryptocurrencies: $5709.78
+    
+    Highest 24h Change: WhiteBIT Coin (7.34%)
+    Lowest 24h Change: Aave (-10.25%)
+    
